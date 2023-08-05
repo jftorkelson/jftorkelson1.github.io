@@ -8,7 +8,7 @@ I study the biogeochemistry of sediment in coastal systems, primarily focusing o
 In my free time I enjoy exploring with my dog Flynn, reading, fishing, diving, cross stitching and drinking tea. Flynn is working on getting certified as a therapy dog after getting certified as a canine good citizen.
 
 ## Contact Me
-### [Email](@jftork@gmail.com)
+### Email: jftork@gmail.com
 ### [Mastodon](https://ecoevo.social/@DesertAndReef)
 ### [Twitter](https://twitter.com/DesertAndReef)
 ### [LinkedIn](https://www.linkedin.com/in/jaclyn-torkelson-930a3aa5/)
@@ -19,7 +19,7 @@ I study the interaction of sediment between coastal ecosystems, primarily focuse
 
 As an undergraduate at Northern Arizona University I studied unregulated water sources on the Navajo Nation. I have since transitioned to another oligotrophic system: coral reefs. I have also worked at Mote Marine Laboratories aiding in a project looking at the interactions between sargassum and staghorn coral under the effects of ocean acidification.
 
-### A dynamic energy budget for coral- _Symbiodinium_ symbiosis with particulate matter input
+### A dynamic energy budget for coral-_Symbiodinium_ symbiosis with particulate matter input
 Stony coral are known to ingest particulate matter and assimilate carbon and nitrogen. I put together a dynamic energy budget for coral-Symbiodinium symbiosis which takes particulate matter into account as a nutrient source and the influence of particulate matter reducing light availability.
 PI: Dr. Jaclyn Torkelson, Dr. Jeremy Testa, and Dr. Mark Teece
 
@@ -48,12 +48,49 @@ PI: Dr. Jaclyn Torkelson, Dr. Jonathan Credo, and Dr. Jani Ingram
 
 # Publications
 **Torkelson, Jaclyn**; Crandall, Jesse; Teece, Mark A. Zooplankton derived organic matter as a food source for benthic coral. Under review.
+
 **Torkelson, Jaclyn**; Teece, Mark A. Influence of coastal ecosystem type on ability of surface sediment to act as a sink of organic matter and trace metals. Under Review. 
+
 **Torkelson, Jaclyn***; Klinges, Grace; Muller, Erinn; Teece, Mark A. Stony coral tissue loss disease alters surface sediment lipid composition. In preparation.
+
 **Torkelson, Jaclyn**; Testa, Jeremy; Teece, Mark A. A dynamic energy budget for coral-Symbiodinium symbiosis with particulate matter input. In preparation
+
 Lankes, Johann David; Quasunella, Amanda; Leingang, Paul; Page, Heather; Nowicki, Robert; Hall, Emily; Lemaire, Clöe; **Torkelson, Jaclyn**; Blasius, Lillia. Quantifying the effects of Sargassum algae blooms on Acropora cervicornis growth and chlorophyll fluorescence in future ocean acidification scenarios. In preparation.
+
 Credo, Jonathan, **Torkelson, Jaclyn**, Rock, Tommy, & Ingram, Jani C. (2019). Quantification of Elemental Contaminants in Unregulated Water across Western Navajo Nation. International Journal of Environmental Research and Public Health, 16(15). https://doi.org/10.3390/ijerph16152727
 
 # Teaching
+I believe in making all students comfortable in the classroom and helping everyone find a love for science. Many students have not had positive previous STEM experiences and it is our place as educators to show them how they can find their place in science either as a scientist or as a well rounded global citizen. Both lab and lecture should be used for a place of growth, not only for knowledge, but for critical thinking and working across disciplinary lines.
+
+I have been awarded the Outstanding Chemistry Teaching Assistant Award in 2019, 2021, and 2022.
+
+​Feel free to contact me for my full teaching portfolio.
+
+### Instructor on Record
+CHEM111: Introductory Chemistry I Lecture, Trinity College _Fall 2023_
+CHEM111L: Introductory Chemistry I Lab, Trinity College _Fall 2023_
+CHE121L: Introductory Chemistry Lab, Onondaga Community College _Spring 2022_
+CHE171L: Introductory Chemistry Lab, Onondaga Community College _Spring 2022_
+
+### Teaching Assistant
+FCH110: Survey of Chemical Principles Lecture, SUNY ESF _Fall 2018, Fall 2019, Fall 2020, Fall 2021, Fall 2022_
+FCH111: Survey of Chemical Principles Lab, SUNY ESF _Fall 2020, Fall 2021, Fall 2022_
+FCH152: General Chemistry Lecture, SUNY ESF _Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023_
+EFB496: Biology, Ecology and Conservation of Coral Reefs, SUNY ESF _Spring 2021_
+CHM320: Analytical Chemistry Lecture, Northern Arizona University _Spring 2017_
+CHM320L: Analytical Chemistry Lab, Northern Arizona University _Spring 2017, Fall 2018, Spring 2018_
+
+### Guest Lectures
+Introduction to Acids and Bases: General Chemistry II, SUNY ESF _April 2022_
+Equilibrium Calculations: General Chemistry II, SUNY ESF _April 2022_
+Le Chatelier's Principle: General Chemistry II, SUNY ESF _March 2022_
+Sediment and Scleractinia: Coral Reefs, SUNY ESF _March 2021_
+Sediment on Coral Reefs: Marine Ecology, SUNY ESF _March 2020_
+Marine Sediments and Paleoceanography: Oceanography, SUNY ESF _April 2019_
+Introduction to Thermodynamics: General Chemistry II, SUNY ESF _February 2019, February 2020_
+Introduction to Thermodynamics: Survey of Chemical Principles, SUNY ESF _November 2018, November 2019_
+
+### Tutoring
+Educatioanl Opportunity Program Chemistry Tutor, SUNY ESF _January 2020-Decemeber 2021, June 2022-August 2022_
 
 # Outreach
