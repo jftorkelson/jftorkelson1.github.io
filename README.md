@@ -1,4 +1,4 @@
-
+<img src="/assets/css/Website_Banner2.png" width="1200" height="200">
 
 Hello! I am a Visiting Assistant Professor of Chemistry at Trinity College in Hartford, CT. In Spring 2023 I earned a PhD in Environmental Chemistry focusing on marine biogeochemistry under Dr. Mark Teece at the State University of New York College of Environmental Science and Forestry (SUNY ESF). I hold a BS in chemistry and a BS in environmental science from Northern Arizona University.
 
