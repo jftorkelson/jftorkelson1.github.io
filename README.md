@@ -93,8 +93,8 @@ Introduction to Thermodynamics: Survey of Chemical Principles, SUNY ESF _Novembe
 Educatioanl Opportunity Program Chemistry Tutor, SUNY ESF _January 2020-Decemeber 2021, June 2022-August 2022_
 
 # Outreach
-**[Oceanbites](oceanbites.org)**
+**[Oceanbites](oceanbites.org)** <br />
 Writer, podcast editor, post editor, and scheduler
 
-**[Skype a Scientist](https://www.skypeascientist.com/)**
+**[Skype a Scientist](https://www.skypeascientist.com/)** <br />
 Corresponding Scientist
