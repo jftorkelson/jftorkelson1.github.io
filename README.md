@@ -8,6 +8,6 @@ As a first generation college student I know the struggle to belong in the class
 
 I study the biogeochemistry of sediment in coastal systems, primarily focusing on the Florida Keys Reef Tract. I use lipid biomarkers, along with stable isotope chemistry to track the origin of settling particles and surface sediment in reefs and another coastal ecosystems. In the future I am interested in building on my knowledge of lipids and stable isotopes to study coastal systems and the deep sea.
 
-In my free time I enjoy exploring with my dog Flynn, reading, fishing, diving, cross stitching and drinking tea. Flynn is working on getting certified as a therapy dog after getting certified as a canine good citizen
+In my free time I enjoy exploring with my dog Flynn, reading, fishing, diving, cross stitching and drinking tea. Flynn is working on getting certified as a therapy dog after getting certified as a canine good citizen.
 
 
