@@ -1,6 +1,3 @@
-# Dr. Jaclyn Torkelson
-
-## Who I am
 
 Hello! I am a Visiting Assistant Professor of Chemistry at Trinity College in Hartford, CT. In Spring 2023 I earned a PhD in Environmental Chemistry focusing on marine biogeochemistry under Dr. Mark Teece at the State University of New York College of Environmental Science and Forestry (SUNY ESF). I hold a BS in chemistry and a BS in environmental science from Northern Arizona University.
 
@@ -10,4 +7,15 @@ I study the biogeochemistry of sediment in coastal systems, primarily focusing o
 
 In my free time I enjoy exploring with my dog Flynn, reading, fishing, diving, cross stitching and drinking tea. Flynn is working on getting certified as a therapy dog after getting certified as a canine good citizen.
 
+## Contact Me
+### [Email](jftork@gmail.com)
+### [Mastodon](https://ecoevo.social/@DesertAndReef)
+### [Twitter](https://twitter.com/DesertAndReef)
+### [LinkedIn](https://www.linkedin.com/in/jaclyn-torkelson-930a3aa5/)
+### [Orcid](https://orcid.org/my-orcid?orcid=0000-0001-6740-4059)
 
+# Research
+
+# Teaching
+
+# Outreach
